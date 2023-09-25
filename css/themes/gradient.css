@@ -9,6 +9,7 @@ main {
   	background-size: cover;
   	background-position: center;
   	color: white;
+	height: 100%;
 }
 
 .icons-social a {
